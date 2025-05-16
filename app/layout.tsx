@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Mona_Sans} from "next/font/google";
+import { Mona_Sans } from "next/font/google";
 import "./globals.css";
 import { Toaster } from "sonner";
 
@@ -27,8 +27,8 @@ export default function RootLayout({
       >
         {children}
 
-        
-        <Toaster/>
+
+        <Toaster />
 
 
       </body>
