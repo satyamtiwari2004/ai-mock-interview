@@ -26,7 +26,7 @@ An intelligent, voice-driven mock interview web application that simulates real-
 
 - **Frontend:** Next.js, React, Tailwind CSS
 - **Voice API:** Vapi.ai
-- 
+  
 
 ---
 
